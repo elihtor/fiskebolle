@@ -6,13 +6,13 @@ body {
 }
 
 header {
-    background: red;
+    background: rgb(100, 147, 185);
 }
 
 main {
-    background: green;
+    background: rgb(30, 92, 100);
 }
 
 footer {
-    background: blue;
+    background: rgb(83, 165, 197);
 }
